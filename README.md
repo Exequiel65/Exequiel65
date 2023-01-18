@@ -1,6 +1,6 @@
 # Hola, Bienvenido a mi Perfil
 Me llamo <b>Marcos Exequiel</b> y soy desarrollador FullStack JS. Actualmente me desempeño como desarrollador .NET Trainee en la empresa 
-Grupo Pominente. 
+Grupo Prominente. 
 
 ## Mis Skills
 <table align= "center"><tr><td valign="top" width="33%">
