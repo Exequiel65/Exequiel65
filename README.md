@@ -50,6 +50,20 @@ Wellet Corp.
 </td></tr></table>  
 
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=aiminofrancisco&row=1&column=4&margin-w=15" alt="Exequiel65" />
+  </a>
+</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Exequiel65&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exequiel65&layout=compact&langs_count=7&theme=dark"/>
+<div align="center">
+  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Exequiel65&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
+  
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exequiel65&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+
