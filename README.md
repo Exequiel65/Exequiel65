@@ -1,7 +1,5 @@
 # Hola, Bienvenido a mi Perfil
-Me llamo <b>Marcos Exequiel</b> y soy desarrollador FullStack. Actualmente me desempeño como desarrollador .NET Jr en la empresa 
-Wellet Corp.
-
+Me llamo <b>Marcos Exequiel</b> y soy desarrollador FullStack
 ## Mis Skills
 <table align= "center"><tr><td valign="top" width="33%">
 <h3 align="center">Frontend</h3>
