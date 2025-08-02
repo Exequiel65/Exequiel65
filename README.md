@@ -1,5 +1,58 @@
-# Hola, Bienvenido a mi Perfil
-Me llamo <b>Marcos Exequiel</b> y soy desarrollador FullStack
+# 👋 ¡Hola! Soy Marcos Britos
+
+Me gusta trabajar en equipo, compartir ideas y aprender constantemente. Disfruto los desafíos técnicos y construir productos que realmente aporten valor.
+## 💼 Stack Tecnológico
+
+Trabajo con tecnologías modernas tanto para **backend**, **frontend** y **mobile**:
+
+### Backend
+- **.NET Core/5+** - APIs REST, microservicios
+- **Node.js** - Desarrollo de servicios backend
+- **NestJS** - Framework enterprise para Node.js
+
+### Frontend & Mobile
+- **React** - Aplicaciones web modernas
+- **Vite** - Herramientas de desarrollo rápido
+- **React Native** - Desarrollo móvil multiplataforma
+
+### DevOps & Herramientas
+- **Docker** - Contenedores y orquestación
+- **VPS** - Deployment en servidores
+
+## ✨ Filosofía de Trabajo
+
+Me apasiona **aprender constantemente** y trabajar en **equipos colaborativos** donde predominan:
+
+- 📚 **Aprendizaje continuo** y exploración de nuevas tecnologías
+- 🔍 **Búsqueda activa de soluciones** innovadoras y eficientes
+- 🚀 **Implementación práctica** de lo aprendido
+- 🧹 **Código limpio y mantenible**
+- 🔄 **Feedback constante**
+- 🎯 **Soluciones simples a problemas complejos**
+
+Mi enfoque principal está en **aprender, buscar soluciones e implementarlas**, disfrutando cada etapa desde el **diseño de arquitectura** hasta la **implementación final**.
+
+## 🧠 Experiencia Técnica
+
+### Arquitectura & Diseño
+- **Plataformas multi-tenant (SaaS)** con arquitectura hexagonal
+- **APIs RESTful** seguras y bien documentadas
+
+### Desarrollo Full-Stack
+- **Aplicaciones web modernas** con React + Vite
+- **Aplicaciones móviles nativas** con React Native
+
+### DevOps & Deployment
+- **Contenedorización** con Docker
+- **Despliegue** en VPS y servicios cloud
+
+## 🔍 Buscando Nuevas Oportunidades
+
+Estoy en **búsqueda activa** de proyectos donde pueda aportar valor
+---
+
+> *"Código limpio no es el que funciona, sino el que otros pueden entender y mejorar"*
+
 ## Mis Skills
 <table align= "center"><tr><td valign="top" width="33%">
 <h3 align="center">Frontend</h3>
