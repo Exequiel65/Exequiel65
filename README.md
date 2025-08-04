@@ -32,27 +32,6 @@ Me apasiona **aprender constantemente** y trabajar en **equipos colaborativos** 
 
 Mi enfoque principal está en **aprender, buscar soluciones e implementarlas**, disfrutando cada etapa desde el **diseño de arquitectura** hasta la **implementación final**.
 
-## 🧠 Experiencia Técnica
-
-### Arquitectura & Diseño
-- **Plataformas multi-tenant (SaaS)** con arquitectura hexagonal
-- **APIs RESTful** seguras y bien documentadas
-
-### Desarrollo Full-Stack
-- **Aplicaciones web modernas** con React + Vite
-- **Aplicaciones móviles nativas** con React Native
-
-### DevOps & Deployment
-- **Contenedorización** con Docker
-- **Despliegue** en VPS y servicios cloud
-
-## 🔍 Buscando Nuevas Oportunidades
-
-Estoy en **búsqueda activa** de proyectos donde pueda aportar valor
----
-
-> *"Código limpio no es el que funciona, sino el que otros pueden entender y mejorar"*
-
 ## Mis Skills
 <table align= "center"><tr><td valign="top" width="33%">
 <h3 align="center">Frontend</h3>
