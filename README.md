@@ -19,8 +19,7 @@ Trabajo con tecnologías modernas tanto para **backend**, **frontend** y **mobil
 - **Docker** - Contenedores y orquestación
 - **VPS** - Deployment en servidores
 
-## ✨ Filosofía de Trabajo
-
+##
 Me apasiona **aprender constantemente** y trabajar en **equipos colaborativos** donde predominan:
 
 - 📚 **Aprendizaje continuo** y exploración de nuevas tecnologías
